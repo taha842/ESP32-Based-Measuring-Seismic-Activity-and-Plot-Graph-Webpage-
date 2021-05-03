@@ -1,0 +1,1 @@
+# ESP32-Based-Measuring-Seismic-Activity-via-Webpage-
